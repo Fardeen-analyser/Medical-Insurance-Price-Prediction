@@ -82,7 +82,7 @@ div.stButton > button:hover{
 # -------------------------------------------------------
 # Load Model
 # -------------------------------------------------------
-model = pickle.load(open("D:/data_science_repo/Medical_price_Prediciton/model.pkl", "rb"))
+model = pickle.load(open("model.pkl", "rb"))
 
 # -------------------------------------------------------
 # Header
